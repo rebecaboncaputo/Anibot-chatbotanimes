@@ -2,7 +2,7 @@
 Versão: 1.0 | Data: __/__/____ | Autora: Rebeca Bontempo
 
 ## 1. Contexto e motivação
-(Passo 1)
+    Como uma pessoa que consome animes sempre, é muito complicado sem ter que ir apenas pelas opcoes limitadas do catalogo dos generos pelos animes que eu me interesso. Este projeto propõe um assistente que sugere animes semelhantes aos que a pessoa já gostou, mas sem se limitar apenas a um genero, por exemplo, ja que geralmente quando vc termina um anime e voce quer ver algo parecido, geralmente buscamos pelo genero, sem considerar outros fatores. 
 
 ## 2. Objetivos
 **Geral:**
